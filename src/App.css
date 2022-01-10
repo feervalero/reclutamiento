@@ -1,3 +1,29 @@
+@font-face {
+  font-family: 'HelveticaNeueLTStd';
+  src: local('HelveticaNeueLTStd'), url(../public/Fonts/HelveticaNeueLTStd-Lt.otf) format('opentype');
+  /* other formats include: 'woff2', 'truetype, 'opentype',
+                            'embedded-opentype', and 'svg' */
+}
+
+@font-face {
+  font-family: 'HelveticaNeueLTStd-Blk';
+  src: local('HelveticaNeueLTStd-Blk'), url(../public/Fonts/HelveticaNeueLTStd-Blk.otf) format('opentype');
+  /* other formats include: 'woff2', 'truetype, 'opentype',
+                            'embedded-opentype', and 'svg' */
+}
+
+@font-face {
+  font-family: 'HelveticaNeueLTStd-Hv';
+  src: local('HelveticaNeueLTStd-Hv'), url(../public/Fonts/HelveticaNeueLTStd-Hv.otf) format('opentype');
+  /* other formats include: 'woff2', 'truetype, 'opentype',
+                            'embedded-opentype', and 'svg' */
+}
+/*HelveticaNeueLTStd-Hv*/
+
+#confont{
+  font-family: 'HelveticaNeueLTStd';
+}
+
 .App {
   text-align: center;
 }
@@ -35,4 +61,17 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.linkmenu{
+  font-family:"HelveticaNeueLTStd";
+}
+
+.menu li{
+  list-style:"";
+}
+
+.helloTitle{
+  font-family: "HelveticaNeueLTStd-Hv";
+  font-size: 135px;
 }
