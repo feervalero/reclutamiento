@@ -3,7 +3,7 @@ import React from 'react'
 export default function ContentBeneficios() {
     return (
         <>
-            <div className="row m-5">
+            <div className="row m-5" id="BENEFICIOS">
                 <div className="col" style={{ borderLeft: "8px solid #AA9767", fontSize: "25px", textAlign: "left" }}>Beneficios <br /> económicos</div>
                 <div className="col" style={{ borderLeft: "8px solid #AA9767", fontSize: "25px", textAlign: "left" }}>Beneficios <br /> familiares</div>
                 <div className="col" style={{ borderLeft: "8px solid #AA9767", fontSize: "25px", textAlign: "left" }}>Beneficios <br /> profesionales</div>

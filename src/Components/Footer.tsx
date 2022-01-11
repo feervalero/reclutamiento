@@ -1,6 +1,9 @@
 import React from 'react'
 import logo from '../1x/Asset13.png'
 import socialLogos from '../1x/Asset19.png'
+import asset12 from '../1x/Asset14.png'
+import footer from '../1x/Asset20.png'
+import { url } from 'inspector'
 
 export default function Footer() {
     return (
@@ -22,12 +25,15 @@ export default function Footer() {
                     </ul>
                 </div>
             </div>
-            <div className="row" style={{ backgroundColor: "#CFD2D3" }}>
-                <div className="col">
+            <div className="row pY-5" style={{ background: `url(${footer})`, backgroundRepeat: "no-repeat", backgroundColor: "#373A36" }}>
+                <div className="col d-flex justify-content-center align-items-center" style={{ fontSize: "25px" }}>
                     hola@policiamonterrey.gob.mx
                 </div>
-                <div className="col">
+                <div className="col d-flex justify-content-center align-items-center" style={{ fontSize: "25px" }}>
                     Atencion Ciudadana. +52 81 5102 8535
+                </div>
+                <div className="col" style={{}}>
+                    <img src={asset12} style={{ position: "relative", top: "-50px" }} alt="" />
                 </div>
             </div>
         </>

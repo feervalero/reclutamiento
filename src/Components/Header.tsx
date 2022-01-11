@@ -14,8 +14,8 @@ export default function Header() {
                         <div>
                             <ul className="menu" style={{}}>
                                 <li>
-                                    <a style={styles.linkMenu} href="#POLICIA">POLICIA</a>
-                                    <a style={styles.linkMenu} href="#REUISITOS">REQUISITOS</a>
+                                    <a style={styles.linkMenu} href="/">POLICIA</a>
+                                    <a style={styles.linkMenu} href="#REQUISITOS">REQUISITOS</a>
                                     <a style={styles.linkMenu} href="#BENEFICIOS">BENEFICIOS</a>
                                     <a style={styles.linkMenu} href="#CITAS">CITAS</a>
                                 </li>
@@ -34,6 +34,7 @@ const styles = {
         textDecoration: "none",
         paddingLeft: "15px",
         paddingRight: "15px",
+        fontSize: "25px",
         borderRight: "2px solid black"
     }
 }
