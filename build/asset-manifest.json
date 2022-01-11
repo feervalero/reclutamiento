@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4e18503f.css",
+    "main.js": "/static/js/main.088f51eb.js",
+    "static/js/787.3c5826ff.chunk.js": "/static/js/787.3c5826ff.chunk.js",
+    "static/media/Asset2.png": "/static/media/Asset2.821587f5655a495ed814.png",
+    "static/media/Asset6.png": "/static/media/Asset6.066ed372a63e24d1ddf0.png",
+    "static/media/Asset4.png": "/static/media/Asset4.cd84fd3f89ea07e3021e.png",
+    "static/media/Asset10.png": "/static/media/Asset10.ee5f3c5a30240e31c0f5.png",
+    "static/media/Asset13.png": "/static/media/Asset13.ee21569f36ed50f185f0.png",
+    "static/media/Asset18.png": "/static/media/Asset18.2cfbe9cc3bf461342ff1.png",
+    "static/media/HelveticaNeueLTStd-Blk.otf": "/static/media/HelveticaNeueLTStd-Blk.2e2e798ea91f9a525216.otf",
+    "static/media/HelveticaNeueLTStd-Hv.otf": "/static/media/HelveticaNeueLTStd-Hv.445dd7580219e4571d20.otf",
+    "static/media/HelveticaNeueLTStd-Lt.otf": "/static/media/HelveticaNeueLTStd-Lt.da5178806f429d6756c3.otf",
+    "static/media/Asset1.png": "/static/media/Asset1.5c4950be9ccd2c4962ef.png",
+    "static/media/Asset5.png": "/static/media/Asset5.18313548310e04001a3d.png",
+    "index.html": "/index.html",
+    "main.4e18503f.css.map": "/static/css/main.4e18503f.css.map",
+    "main.088f51eb.js.map": "/static/js/main.088f51eb.js.map",
+    "787.3c5826ff.chunk.js.map": "/static/js/787.3c5826ff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e18503f.css",
+    "static/js/main.088f51eb.js"
+  ]
+}
